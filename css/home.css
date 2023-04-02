@@ -403,6 +403,7 @@ footer {
     text-align: center;
     padding: 40px 0px;
     color: white;
+    border-top: 2px solid white;
 }
 
 @keyframes up-down {
